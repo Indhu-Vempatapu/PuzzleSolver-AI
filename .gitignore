@@ -1,0 +1,29 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment
+myenv/
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+
+# Ignore output folder if it's for generated files/screenshots/videos
+output/
+
+# VS Code settings (optional)
+.vscode/
+
+# Log files and local environment settings
+*.log
+.env
+
+# PyInstaller, packaging, build artifacts (in case you use them later)
+*.spec
+dist/
+build/
+*.egg-info/
+.eggs/
