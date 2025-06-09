@@ -19,15 +19,53 @@ This project is an **AI-driven puzzle solver** for the classic 8-puzzle problem,
   - **IDA\*** - Iterative Deepening A*
   - **Greedy** - Greedy Best-First Search
 
+## 🚀 Installation & Execution
+  ### Prerequisites
+  Make sure Python and pip are installed.
+  ```bash
+  python --version
+  pip --version
+  ```
+  ### 1️⃣ **Clone the Repository**
+  ```
+  git clone https://github.com/Indhu-Vempatapu/PuzzleSolver-AI.git
+  cd PuzzleSolver-AI
+  ```
+  ### 2️⃣ **Install Required Packages**
+  ```
+  pip install -r requirements.txt
+  ```
+  
+  ### 3️⃣ **Set up Virtual Environment**
+  ```
+  python -m venv myenv
+  ./myenv/Scripts/activate
+  ```
+  ### 4️⃣ **Run the Application**
+  ```
+  python main.py
+  ```
+
 ## 🎥 Demo & Output
 ### 📹 Output Video
 
-**[Watch Demo Video](assets/video.gif)**
+**Watch Demo Video**:
+
+![Demo](assets/video.gif)**
 
 **Start State**: `[[2, 6, 5], [0, 8, 7], [4, 3, 1]]`
-  ![Start](assets/solution.ng)
 
-- **Goal State**: `[[1, 2, 3], [4, 5, 6], [7, 8, 0]]`
+  ![Start](assets/solution.png)
+
+ **Goal State**: `[[1, 2, 3], [4, 5, 6], [7, 8, 0]]`
+
   ![Goal](assets/solution1.png)
+
+ 
+
+
+  
+  
+  
 
 
