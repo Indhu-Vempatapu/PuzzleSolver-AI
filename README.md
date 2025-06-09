@@ -20,13 +20,14 @@ This project is an **AI-driven puzzle solver** for the classic 8-puzzle problem,
   - **Greedy** - Greedy Best-First Search
 
 ## 🎥 Demo & Output
-## 📹 Output Video
+### 📹 Output Video
 
-**[Watch Demo Video](https://github.com/user-attachments/assets/video.gif)**
+**[Watch Demo Video](assets/video.gif)**
+
 **Start State**: `[[2, 6, 5], [0, 8, 7], [4, 3, 1]]`
-  ![Start](https://github.com/user-attachments/assets/solution.ng)
+  ![Start](assets/solution.ng)
 
 - **Goal State**: `[[1, 2, 3], [4, 5, 6], [7, 8, 0]]`
-  ![Goal](https://github.com/user-attachments/assets/solution1.png)
+  ![Goal](assets/solution1.png)
 
 
