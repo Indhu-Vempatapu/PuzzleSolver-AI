@@ -22,7 +22,11 @@ This project is an **AI-driven puzzle solver** for the classic 8-puzzle problem,
 ## 🎥 Demo & Output
 ## 📹 Output Video
 
-**[🎬 Watch Demo Video]((https://1drv.ms/v/c/f11ca5fb421827f3/EfT4mvsy13BHrPOwMpMxMo4BXqbr4kpvCA7Xj6x-Gs4O_g?e=UjmWu2))**
+**[Watch Demo Video](https://github.com/user-attachments/assets/video.gif)**
+**Start State**: `[[2, 6, 5], [0, 8, 7], [4, 3, 1]]`
+  ![Start](https://github.com/user-attachments/assets/solution.ng)
 
-## 🚀 Installation & Execution
-Prerequisites
+- **Goal State**: `[[1, 2, 3], [4, 5, 6], [7, 8, 0]]`
+  ![Goal](https://github.com/user-attachments/assets/solution1.png)
+
+
