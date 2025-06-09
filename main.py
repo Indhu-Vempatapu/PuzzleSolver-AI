@@ -176,10 +176,6 @@ class PuzzleApp:
         self.solution_board = np.zeros((3, 3), dtype=int)
         self.auto_board = np.zeros((3, 3), dtype=int)
         self.feedback_timer = 0
-                
-        self.demo_image = pygame.image.load("assets/solution.png").convert()
-        self.demo_image = pygame.transform.scale(self.demo_image, (300, 300))  
-
 
         # Algorithm configuration
         self.algorithms = {
@@ -407,12 +403,6 @@ class PuzzleApp:
 
             if self.result_text_time:
                 self.screen.blit(SMALL_FONT.render(self.result_text_time, True, BLACK), (status_x, status_y + 50))
-
-               
-        if hasattr(self, "demo_image"):
-            demo_x = self.panel.rect.x + 10
-            demo_y = self.panel.rect.y + self.panel.rect.height + 20
-            self.screen.blit(self.demo_image, (demo_x, demo_y))
 
 
             
