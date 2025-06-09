@@ -177,7 +177,7 @@ class PuzzleApp:
         self.auto_board = np.zeros((3, 3), dtype=int)
         self.feedback_timer = 0
                 
-        self.demo_image = pygame.image.load("assets/solution_step.png").convert()
+        self.demo_image = pygame.image.load("assets/solution.png").convert()
         self.demo_image = pygame.transform.scale(self.demo_image, (300, 300))  
 
 
