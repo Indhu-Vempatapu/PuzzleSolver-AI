@@ -1,4 +1,4 @@
-## 🧩 AI Puzzle Solver – Visualizing Search Algorithms in Action!
+##  AI Puzzle Solver – Visualizing Search Algorithms in Action!
 
 ## 📌 Project Goal
 This project is an **AI-driven puzzle solver** for the classic 8-puzzle problem, implemented with a visually appealing and interactive Pygame GUI. It enables users to select various AI search algorithms such as **A\*, BFS, DFS, UCS, IDA\*,IDS** and Greedy Search to solve the puzzle. The core focus of this project is to **demonstrate how AI algorithms can intelligently navigate state spaces** and visually show their decision-making process step-by-step.
